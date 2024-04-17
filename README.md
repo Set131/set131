@@ -1,4 +1,4 @@
-![Header](https://github.com/Set131/set131/blob/main/assets/games.gif)
+<img src="assets/games.gif" alt="." style="width: 100%">
 
 About me
 
