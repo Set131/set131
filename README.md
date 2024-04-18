@@ -3,8 +3,9 @@
 </div>
 
 
-About me
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=set131&theme=highcontrast&=true)
 
 Tools
+
 
 Follow me
